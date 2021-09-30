@@ -49,12 +49,27 @@ function NameList() {
     //     </h2>
     //     )
 
-    //using JSX in a seperate component
+    //using JSX in a separate component
     const personList = persons.map(person=>
-        <Person key={person.id} person={person }/>
+        <Person key={person.id} person={person}/>
     )
     return <div>{personList}</div>
 
 }
+
+//function NameList(){
+    
+   //INDEX AS KEY
+
+//    when to use index as a key?
+//    1. The items in your list donot have a unique id
+//    2. The list is static list and will not change
+//    3. The list will never be recorded or filtered
+
+//     const name=['Bruce' , 'Clark', 'Diana']
+//     const nameList = name.map((name ,index)=> <h2 key={index}> {index} {name}</h2>)
+//     return <div>{nameList}</div>
+// }
+
 
 export default NameList
