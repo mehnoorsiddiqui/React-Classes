@@ -6,6 +6,9 @@ import EventBind from './components/EventBind';
 import FunctionClick from './components/FunctionClick';
 import Hello from './components/Hello';
 import Message from './components/Message';
+import NameList from './components/NameList';
+import ParentComponent from './components/ParentComponent';
+import UserGreeting from './components/UserGreeting';
 import Welcome from './components/Welcome';
 
 class App extends Component {
@@ -21,7 +24,10 @@ class App extends Component {
         <Welcome name="SameeraC" heroname="batsrman"/> */}
         {/* <FunctionClick/>
         <ClassClick/> */}
-        <EventBind/>
+        {/* <EventBind/> */}
+        {/* <ParentComponent/> */}
+        {/* <UserGreeting/> */}
+        <NameList/>
       </div>
 
     )
