@@ -22,7 +22,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <LifeCycleA/>
+
+
+        
+        {/* <LifeCycleA/> */}
         {/* <Form/> */}
         {/* <Inline/> */}
         {/* <h1 className='error'>Error</h1>
