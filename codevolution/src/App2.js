@@ -6,11 +6,11 @@ import FRParentInput from './components2/FRParentInput';
 import ParentComp from './components2/ParentComp';
 import RefsDemo from './components2/RefsDemo';
 import Table from './components2/Table';
-export class App2 extends Component {
+class App2 extends Component {
     render() {
         return (
             <div className="App">
-                <FRParentInput/>
+                {/* <FRParentInput/> */}
                 {/* <FocusInput/> */}
                 {/* <RefsDemo/> */}
                {/* <ParentComp/> */}
