@@ -1,0 +1,30 @@
+/burgerbuilder/yarn.lock
+/burgerbuilder/node_modules/
+
+/class4/yarn.lock
+/class4/node_modules/
+
+/class5/yarn.lock
+/class5/node_modules/
+
+/codevolution/yarn.lock
+/codevolution/node_modules/
+
+/CRUD app/client/package-lock.json
+/CRUD app/client/node_modules/
+/CRUD app/server/package-lock.json
+/CRUD app/server/node_modules/
+
+/demo-app/yarn.lock
+/demo-app/node_modules/
+
+/react_hooks/yarn.lock
+/react_hooks/node_modules/
+
+/react_assignment1/yarn.lock
+/react_assignment1/node_modules/
+
+/react_assignment2/yarn.lock
+/react_assignment2/node_modules/
+
+
