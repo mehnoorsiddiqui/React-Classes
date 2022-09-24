@@ -21,10 +21,13 @@ demo-app/node_modules/
 react_hooks/yarn.lock
 react_hooks/node_modules/
 
-react_assignment1/yarn.lock
-react_assignment1/node_modules/
+react_http/yarn.lock
+react_http/node_modules/
 
-react_assignment2/yarn.lock
-react_assignment2/node_modules/
+react-assignment1/yarn.lock
+react-assignment1/node_modules/
+
+react-assignment2/yarn.lock
+react-assignment2/node_modules/
 
 
